@@ -11,3 +11,9 @@ A3_rs/
 A3_rs.launch
 test/
 test.launch
+.kdev4/
+*.kdev4
+camera_model/.kdev4/
+camera_model/camera_model.kdev4
+camera_model/kbuild/
+
